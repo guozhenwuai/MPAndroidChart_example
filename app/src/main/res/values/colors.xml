@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="chartBackground">#ffffff</color>
+    <color name="chartGridLine">#dddddd</color>
+    <color name="maxTemperature">#ee7942</color>
+    <color name="minTemperature">#ffec8b</color>
+    <color name="avgHumidity">#87cefa</color>
+    <color name="labelText">#888888</color>
+    <color name="button">#87cefa</color>
+    <color name="black">#000000</color>
+</resources>

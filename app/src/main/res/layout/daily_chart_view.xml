@@ -1,0 +1,23 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/chartGridLine">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:textSize="20dp"
+        android:text="@string/daily"
+        android:background="@color/chartBackground"
+        android:layout_marginTop="10dp"/>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/daily_chart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/chartBackground" />
+</LinearLayout>

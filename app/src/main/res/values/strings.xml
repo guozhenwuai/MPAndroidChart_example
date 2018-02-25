@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TemperatureMonitor</string>
+    <string name="avgTemp">日均气温</string>
+    <string name="avgHumid">日均湿度</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="detail">详细数据</string>
+    <string name="rh">%RH</string>
+    <string name="celsius">℃</string>
+    <string name="history">历史趋势</string>
+    <string name="daily">当日变化</string>
+</resources>
